@@ -1,0 +1,1 @@
+Interval check: 0 to 100.

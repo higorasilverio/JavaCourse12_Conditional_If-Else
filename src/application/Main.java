@@ -10,8 +10,6 @@ public class Main {
 		Locale.setDefault(Locale.US);
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.println("*** Interval check: 0 to 100 ***");
-		System.out.println();
 		System.out.print("Enter the number to check the interval: ");
 		double number = scanner.nextDouble();
 		if(number >= 0 && number <= 25) System.out.println("Interval [0,25]");
